@@ -9,7 +9,7 @@ const QrCode = () => {
           src={`/image-qr-code.png`}
           width={288}
           height={288}
-          className="size-full drop-shadow-md rounded-md"
+          className="size-full drop-shadow-md  rounded-md"
         ></Image>
       </div>
       <div className="flex flex-col gap-4 p-4 items-center justify-center w-[90%]">

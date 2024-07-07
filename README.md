@@ -21,7 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](https://gitnote.s3.us-east-2.amazonaws.com/ss2.png)
+![](https://gitnote.s3.us-east-2.amazonaws.com/ss3.png)
 
 ## My process
 

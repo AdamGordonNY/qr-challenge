@@ -12,8 +12,8 @@ const QrCode = () => {
           className="size-full drop-shadow-md  rounded-lg"
         ></Image>
       </div>
-      <div className="flex flex-col gap-4 mb-6 items-center justify-center w-[90%] px-4 top-2 ">
-        <h1 className="font-extrabold text-[#1F314F] text-center text-xl align-text-top  ">
+      <div className="flex flex-col gap-4 mb-6 items-center text-center leading-[20px] justify-center w-[90%] px-4 top-2 ">
+        <h1 className="font-extrabold text-[#1F314F]  text-xl align-text-top  ">
           Improve your front-end skills by building projects.
         </h1>
         <span className="text-center text-[#7D889E] text-sm">
